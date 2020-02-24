@@ -1,0 +1,4 @@
+pip install --upgrade tensorflow_federated
+pip install --upgrade tf-nightly
+
+pip install --upgrade nest_asyncio
